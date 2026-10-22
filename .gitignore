@@ -1,0 +1,10 @@
+# Секрети та локальні дані
+.env
+data.json
+
+# Залежності
+node_modules/
+
+# Системні
+.DS_Store
+Thumbs.db
